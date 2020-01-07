@@ -1,6 +1,7 @@
 aaaaaaaaaaaaaaa
 i2i232
 bbb主分支的修改bbbbbbbbb
+bbbbbbbbbbb  hot_fix 分支修改的内容b
 sssssss
 sss
 ddffb
